@@ -1,4 +1,1 @@
-git add images/requisicoes_por_tipo.png
-git add README.md  # se atualizou o README para linkar a imagem
-git commit -m "Adiciona gráficos na pasta images e atualiza README"
-git push
+
