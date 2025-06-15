@@ -48,7 +48,7 @@ A partir da contagem de CPFs únicos por IP:
 
 ### 3. Visualização
 
-![Gráfico de barras dos IPs mais suspeitos](images/ips_suspeitos.png)
+![Gráfico de barras dos IPs mais suspeitos](ips_suspeitos.png)
 
 ---
 
